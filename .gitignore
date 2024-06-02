@@ -1,0 +1,8 @@
+.env
+venv/
+output_clips/
+insightface_model/
+augmented_clips/
+__pycache__/
+testVideo.mp4
+.DS_Store
