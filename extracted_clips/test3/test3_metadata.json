@@ -1,0 +1,59 @@
+{
+    "video_name": "test3",
+    "clips": [
+        {
+            "face_id": 0,
+            "clip_part": 1,
+            "filename": "extracted_clips/test3/clip_0_part_1.mp4",
+            "source_video": "test3"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 2,
+            "filename": "extracted_clips/test3/clip_0_part_2.mp4",
+            "source_video": "test3"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 3,
+            "filename": "extracted_clips/test3/clip_0_part_3.mp4",
+            "source_video": "test3"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 4,
+            "filename": "extracted_clips/test3/clip_0_part_4.mp4",
+            "source_video": "test3"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 5,
+            "filename": "extracted_clips/test3/clip_0_part_5.mp4",
+            "source_video": "test3"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 6,
+            "filename": "extracted_clips/test3/clip_0_part_6.mp4",
+            "source_video": "test3"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 7,
+            "filename": "extracted_clips/test3/clip_0_part_7.mp4",
+            "source_video": "test3"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 8,
+            "filename": "extracted_clips/test3/clip_0_part_8.mp4",
+            "source_video": "test3"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 9,
+            "filename": "extracted_clips/test3/clip_0_part_9.mp4",
+            "source_video": "test3"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "video_name": "test2",
+    "clips": [
+        {
+            "face_id": 0,
+            "clip_part": 1,
+            "filename": "extracted_clips/test2/clip_0_part_1.mp4",
+            "source_video": "test2"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 2,
+            "filename": "extracted_clips/test2/clip_0_part_2.mp4",
+            "source_video": "test2"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 3,
+            "filename": "extracted_clips/test2/clip_0_part_3.mp4",
+            "source_video": "test2"
+        },
+        {
+            "face_id": 0,
+            "clip_part": 4,
+            "filename": "extracted_clips/test2/clip_0_part_4.mp4",
+            "source_video": "test2"
+        }
+    ]
+}

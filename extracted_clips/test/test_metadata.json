@@ -1,0 +1,11 @@
+{
+    "video_name": "test",
+    "clips": [
+        {
+            "face_id": 0,
+            "clip_part": 1,
+            "filename": "extracted_clips/test/clip_0_part_1.mp4",
+            "source_video": "test"
+        }
+    ]
+}
