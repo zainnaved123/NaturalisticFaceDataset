@@ -23,3 +23,15 @@
   - Fetches movie data from OMDB and TMDB apis such as name of actors in it and their profile picture
 - augment_videos.py
   - Not necessary at the moment. Does data augmentation on existing clips (flipping the image, rotating, adding noise, changing brightness).
+
+
+
+  For Zain's extract.py
+  run in this order
+
+  start you python env 
+
+  python extract.py
+
+  clips are exported to outputClips
+  test videos hardcoded in, present in directory
